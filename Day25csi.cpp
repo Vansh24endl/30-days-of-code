@@ -3,7 +3,7 @@ using namespace std;
 int array_Sum(int arr[], int size, int sum);
 int main()
 {
-    int arr[] = {1, 2, 3, 4, 5,6,7};
+    int arr[] = {1, 2, 3, 4, 5,6,7,8};
   int size = sizeof(arr) / sizeof(arr[0]); // no. of elements in array
 
     int sum = 0;
